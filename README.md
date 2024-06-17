@@ -41,7 +41,7 @@ K-means was reapplied on PCA-reduced data and the optimal k is at 4.
 
 ### Final Analysis
 Using the reduced set of features on this dataset yielded the same clustering result as the original set of features. This is likely due to the small size of the dataset, which minimized the impact of feature reduction. However, in the case of a larger dataset, reducing the number of features would significantly enhance computational efficiency. Nonetheless, it's important to consider that reducing features can sometimes lead to the loss of important information, which might affect the quality of the clustering and the interpretability of the results. Here is a snapshot of the composite plot. 
-![composite_plot](path/to/image.png "Optional title")
+![composite_plot](/composite_plot.png)
 
 
 ---
